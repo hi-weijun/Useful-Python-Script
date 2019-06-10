@@ -5,11 +5,11 @@ import json
 import pandas as pd
 
 def get_urt(addtress):
-    queryStr = '/geocoder/v2/?address=%s&output=json&ak=mcH6sBNaAfsbkSndFI5zO90j9wUpRMFy' % addtress
+    #添加秘钥
+    your_ak = '你的sk'
+    queryStr = '/geocoder/v2/?address=%s&output=json&ak=your_ak' % addtress
     # 对queryStr进行转码，safe内的保留字符不转换
     encodedStr = parse.quote(queryStr, safe="/:=&?#+!$,;'@()*[]")
-    # 在最后直接追加上你的秘钥sk
-    rawStr = encodedStr + '你的sk'
     #计算sn
     sn = (hashlib.md5(parse.quote_plus(rawStr).encode("utf8")).hexdigest())
     #由于URL里面含有中文，所以需要用parse.quote进行处理，然后返回最终可调用的url
