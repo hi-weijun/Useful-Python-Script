@@ -5,7 +5,7 @@ import json
 import pandas as pd
 
 def get_urt(addtress):
-    #添加秘钥
+    #输入你的秘钥，获取地址http://lbsyun.baidu.com/apiconsole/key/create
     your_ak = '你的sk'
     queryStr = '/geocoder/v2/?address=%s&output=json&ak=your_ak' % addtress
     # 对queryStr进行转码，safe内的保留字符不转换
