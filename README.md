@@ -16,5 +16,7 @@
 7. [车辆图片识别车型](https://github.com/hi-weijun/Useful-Python-Script/tree/master/%E8%BD%A6%E8%BE%86%E5%9B%BE%E7%89%87%E8%AF%86%E5%88%AB%E8%BD%A6%E5%9E%8B)
 <br>
 
-![](https://upload-images.jianshu.io/upload_images/13723999-913b277a644dd081.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)![](https://upload-images.jianshu.io/upload_images/13723999-75e4ef24a85ee509.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/13723999-913b277a644dd081.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ <img src="https://upload-images.jianshu.io/upload_images/13723999-75e4ef24a85ee509.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width = "300" height = "310"   />
+
 
