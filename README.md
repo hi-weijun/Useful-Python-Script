@@ -18,6 +18,6 @@
 
 ![](https://upload-images.jianshu.io/upload_images/13723999-913b277a644dd081.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 <br>
- <img src="https://upload-images.jianshu.io/upload_images/13723999-75e4ef24a85ee509.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width = "300" height = "310"   />
+ <img src="https://upload-images.jianshu.io/upload_images/13723999-75e4ef24a85ee509.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width = "280" height = "290"   />
 
 
