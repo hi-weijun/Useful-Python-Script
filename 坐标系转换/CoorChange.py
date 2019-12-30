@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
-
+'''
+auther：chenxu
+content：火星、百度、高德、谷歌等坐标系之间的转换
+'''
 import json
 import math
 
